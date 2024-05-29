@@ -1,0 +1,103 @@
+ZEN DE PYTHON
+El "Zen de Python" es una colección de principios filosóficos que guían el diseño
+del lenguaje de programación Python. Estos principios se presentan en el PEP 20 
+(Python Enhancement Proposal 20), que es una guía de estilo para escribir código 
+Python de manera legible y eficiente. El Zen de Python se puede ver escribiendo 
+"import this" en el intérprete de Python, lo que muestra el conjunto de principios 
+en la consola. Algunos de estos principios incluyen la legibilidad cuenta, la 
+simplicidad es mejor que la complejidad y la claridad es mejor que la ambigüedad. 
+En resumen, el Zen de Python es una especie de filosofía que promueve la escritura 
+de código Pythonic, es decir, código limpio, legible y fácil de entender.
+
+1.Hermoso es mejor que feo.
+
+    Se refiere a que es preferible escribir código limpio y elegante en lugar de 
+    código desordenado y confuso
+
+2.Explícito es mejor que implícito.
+
+    Sugiere que es mejor ser claro y directo en el código, evitando ambigüedades y
+    suposiciones.
+
+3.Simple es mejor que complejo.
+
+    Indica que es preferible buscar la simplicidad en el diseño y la implementación
+    del código en lugar de hacerlo innecesariamente complicado.
+
+4.Complejo es mejor que complicado.
+
+    Reconoce que algunas soluciones pueden requerir complejidad, pero es importante
+    evitar la complicación excesiva que dificulte la comprensión
+
+5.Plano es mejor que anidado.
+
+    Se refiere a que es preferible evitar la anidación excesiva de estructuras de 
+    control y datos, ya que puede hacer que el código sea difícil de entender.
+
+6.Espaciado es mejor que denso.
+
+    Sugiere que es mejor utilizar un formato de código espaciado y bien organizado en 
+    lugar de uno denso y abarrotado, lo que mejora la legibilidad.
+
+7.La legibilidad cuenta.
+
+    Destaca la importancia de escribir código que sea fácil de leer y entender para 
+    otros programadores.
+
+8.Los casos especiales no son lo suficientemente especiales como para romper las reglas.
+
+    Indica que es preferible seguir los principios generales de diseño y estilo en lugar 
+    de introducir excepciones innecesarias.
+
+9.Aunque la practicidad supera a la pureza.
+
+    Reconoce que a veces es necesario sacrificar la pureza conceptual en aras de la 
+    practicidad y la conveniencia.
+
+10.Los errores nunca deberían pasar en silencio, a menos que se silencien explícitamente.
+
+    Destaca la importancia de manejar los errores de manera adecuada y evitar ocultarlos 
+    inadvertidamente.
+
+11.En la cara de la ambigüedad, rechace la tentación de adivinar.
+
+    Sugiere que es mejor ser claro y explícito en lugar de dejar que la ambigüedad se 
+    infiltre en el código.
+
+12.Debería haber una, y preferiblemente solo una, manera obvia de hacerlo.
+
+    Fomenta la consistencia y la simplicidad al buscar una única forma clara y directa de 
+    realizar una tarea.
+
+13.Aunque esa manera puede no ser obvia al principio a menos que seas holandés.
+
+    Reconoce que la claridad y la simplicidad pueden no ser evidentes de inmediato, pero que 
+    es importante esforzarse por ellas.
+
+14.Ahora es mejor que nunca.
+
+    Sugiere que es mejor actuar y mejorar el código en el presente en lugar de posponer las 
+    mejoras indefinidamente.
+
+15.Aunque nunca es a menudo mejor que ahora mismo.
+
+    Reconoce que la urgencia excesiva puede conducir a errores, por lo que es importante 
+    equilibrar la necesidad de acción con la prudencia.
+
+16.Si la implementación es difícil de explicar, es una mala idea.
+
+     Indica que las soluciones complicadas y difíciles de entender probablemente no sean las 
+     mejores opciones.
+
+17.Si la implementación es fácil de explicar, puede que sea una buena idea.
+
+    Sugiere que las soluciones simples y claras son generalmente preferibles a las complicadas.
+
+18.Los espacios de nombres son una gran idea, ¡hagamos más de eso!
+
+    Destaca la utilidad de la encapsulación y la modularidad en la organización del código.
+
+19.Sin embargo, en la práctica, la sencillez es subjetiva.
+    
+    Reconoce que la simplicidad puede ser percibida de manera diferente por diferentes personas 
+    y en diferentes contextos, pero aún así es un objetivo importante a seguir.
